@@ -235,4 +235,5 @@ class FirstClass:
       print(test) 
 person = FirstClass("Ali",21)
 
-
+a = ['whjf','wrf','erfh','erf','erf','erf','erf','erf','erf','erf','erf','erf','erf','erf','erf','erf','erf','erf','erf','erf','erf','erf','erf']
+print(a)
